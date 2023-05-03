@@ -1,0 +1,9 @@
+.Nav{
+    width: 100% -2em;
+    display: flex;
+    margin-left:0px;
+    justify-content: center;
+}
+.item{
+    margin: 5px
+}
